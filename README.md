@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning git and github...
 - 💞️ I’m looking to collaborate on good-first-issues as of now...
 - 📫 How to reach me ...<br>
--     email : githubnewusr@gmail.com
+-     email : ghoshparth127@gmail.com / githubnewusr@gmail.com
   🔗 [linkedIn](linkedin.com/in/partha-pratim-ghosh-72a121245)<br>
   🕊  [Twitter](https://twitter.com/ParthG77)<br>
 
