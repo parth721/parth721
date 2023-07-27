@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on good-first-issues as of now...
 - 📫 How to reach me ...<br>
 -     email : ghoshparth127@gmail.com / githubnewusr@gmail.com
-  🔗 [linkedIn](linkedin.com/in/partha-pratim-ghosh-72a121245)<br>
-  🕊  [Twitter](https://twitter.com/ParthG77)<br>
 
 <!---
 parth721/parth721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
